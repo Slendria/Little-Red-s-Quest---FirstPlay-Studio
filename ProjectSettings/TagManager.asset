@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cherry
+  - Traps
+  - Ground
+  - Enemies
+  - Coins
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Platform
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3263682235
+    locked: 0
+  - name: Background -2
+    uniqueID: 4086728283
+    locked: 0
+  - name: Background -3
+    uniqueID: 575190181
+    locked: 0
+  - name: Terrain -3
+    uniqueID: 786437493
+    locked: 0
+  - name: Terrain - 2
+    uniqueID: 385703383
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Terrain
+    uniqueID: 1017235019
+    locked: 0
